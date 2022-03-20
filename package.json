@@ -20,7 +20,7 @@
         "wasm-shell": "git+https://github.com/Antony74/webassembly.sh.git"
     },
     "devDependencies": {
-        "cpy": "^8.1.2"
+        "cpy": "^9.0.1"
     },
     "prettier": {
         "semi": true,
